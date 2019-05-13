@@ -1,0 +1,19 @@
+.far{
+  font-size: 80px;
+  margin:1.2rem;
+  -webkit-text-stroke: 4px white;
+}
+
+.examHeading{
+	color:green;
+	padding-left:10px;
+}
+
+.examInfo{
+	color:blue;
+	padding-right:15px;
+}
+#headingSpace{
+	padding-left:30px;
+}
+
